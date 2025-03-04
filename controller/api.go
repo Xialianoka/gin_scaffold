@@ -2,11 +2,11 @@ package controller
 
 import (
 	"errors"
-	"github.com/e421083458/gin_scaffold/dao"
-	"github.com/e421083458/gin_scaffold/dto"
-	"github.com/e421083458/gin_scaffold/middleware"
-	"github.com/e421083458/gin_scaffold/services"
-	"github.com/e421083458/golang_common/lib"
+	"github.com/Xialianoka/gin_scaffold/dao"
+	"github.com/Xialianoka/gin_scaffold/dto"
+	"github.com/Xialianoka/gin_scaffold/middleware"
+	"github.com/Xialianoka/gin_scaffold/services"
+	"github.com/Xialianoka/golang_common/lib"
 	"github.com/gin-gonic/contrib/sessions"
 	"github.com/gin-gonic/gin"
 	"strings"

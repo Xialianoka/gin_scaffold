@@ -1,7 +1,7 @@
 package dao
 
 import (
-	"github.com/e421083458/gin_scaffold/dto"
+	"github.com/Xialianoka/gin_scaffold/dto"
 	"gorm.io/gorm"
 	"github.com/gin-gonic/gin"
 	"time"
